@@ -1,0 +1,4 @@
+#include <windows.h>
+
+#define IDI_NEON_AUDIO_MATRIX 201
+IDI_NEON_AUDIO_MATRIX ICON "@CMAKE_CURRENT_SOURCE_DIR@/resources/NeonAudioMatrix.ico"

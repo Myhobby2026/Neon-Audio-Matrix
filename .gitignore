@@ -1,0 +1,9 @@
+# Generated CMake / Visual Studio output
+build/
+.vs/
+CMakeUserPresets.json
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.ipch
